@@ -6,7 +6,7 @@ The landing page features a clean and intuitive layout, smooth animations, and o
 
 
 ## Live Preview
-[Landing Museum Live](https://iastivka.github.io/landing-museum/)
+[Landing Museum Demo](https://iastivka.github.io/landing-museum/)
 
 ## Design Reference
 [Figma Prototype](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=F7OXt3TTsLnmrCsU-0)
