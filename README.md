@@ -12,11 +12,9 @@ A modern, responsive landing page for a museum project, designed to showcase exh
 
 ### Core
 - **HTML5** – Markup language for structuring content
-- **JavaScript** – Scripting for interactivity
-- **Gulp** – Task runner for automating workflows
-
-### Styling
 - **SCSS** – Sassy CSS for styling
+
+### Methodology
 - **BEM** – Methodology for CSS class naming
 
 ### Linting / Code Quality
@@ -25,6 +23,7 @@ A modern, responsive landing page for a museum project, designed to showcase exh
 
 ### Deployment / Build
 - **GitHub Pages** – Hosting the live site
+- **Gulp** – Task runner for automating workflows
 
 ## Getting Started
 
