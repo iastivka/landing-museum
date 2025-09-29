@@ -1,6 +1,8 @@
 # Landing Museum
 
-A modern, responsive landing page for a museum project, designed to showcase exhibits and information in a visually engaging way.
+A modern, responsive landing page for a museum project, designed to showcase exhibits and information in a visually engaging way.  
+The landing page features a clean and intuitive layout, smooth animations, and optimized content to provide visitors with an immersive browsing experience, highlighting the museum's collections and key information effectively.
+
 
 ## Live Preview
 [Landing Museum Live](https://iastivka.github.io/landing-museum/)
