@@ -15,7 +15,7 @@ The landing page features a clean and intuitive layout, smooth animations, and o
 
 ### Core
 - **HTML5** – Markup language for structuring content
-- **SCSS** – Sassy CSS for styling
+- **SCSS** – Sass CSS for styling
 
 ### Methodology
 - **BEM** – Methodology for CSS class naming
